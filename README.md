@@ -1,2 +1,2 @@
 # bulid-a-protofile
-it is a full project based on HTML,CSS,JavaScript
+A responsive profile website built using HTML, CSS, and JavaScript.
